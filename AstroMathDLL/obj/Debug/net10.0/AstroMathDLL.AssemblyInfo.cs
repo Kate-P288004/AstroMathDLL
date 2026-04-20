@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AstroMathDLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d42b67d33c0001e0f10a5ced7225e0432fdbf3c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f06fca268a5ff2362c8077f23689ebfa29abc5b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AstroMathDLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AstroMathDLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

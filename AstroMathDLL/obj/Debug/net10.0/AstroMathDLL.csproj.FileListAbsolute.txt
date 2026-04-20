@@ -10,3 +10,15 @@ C:\Users\P288004\Desktop\AstroAt2\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.dl
 C:\Users\P288004\Desktop\AstroAt2\AstroMathDLL\obj\Debug\net10.0\refint\AstroMathDLL.dll
 C:\Users\P288004\Desktop\AstroAt2\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.pdb
 C:\Users\P288004\Desktop\AstroAt2\AstroMathDLL\obj\Debug\net10.0\ref\AstroMathDLL.dll
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\bin\Debug\net10.0\AstroMathDLL.deps.json
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\bin\Debug\net10.0\AstroMathDLL.dll
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\bin\Debug\net10.0\AstroMathDLL.pdb
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.AssemblyInfoInputs.cache
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.AssemblyInfo.cs
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.csproj.CoreCompileInputs.cache
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.sourcelink.json
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.dll
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\refint\AstroMathDLL.dll
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\AstroMathDLL.pdb
+C:\Users\kateo\OneDrive\Desktop\AstroAT3\AstroMathDLL\AstroMathDLL\obj\Debug\net10.0\ref\AstroMathDLL.dll
